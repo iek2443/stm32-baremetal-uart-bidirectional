@@ -10,6 +10,14 @@ A pair of jumper wires is used to connect the TX/RX lines between the two periph
 
 ---
 
+## 🔁 Previous Lesson
+
+If you haven’t completed the previous lesson where we implemented USART-based communication, check it out here:
+
+👉 [Previous Lesson: Bidirectional UART (USART2 <-> USART3)](https://github.com/iek2443/stm32-baremetal-uart-tx-printf-)
+
+---
+
 ## 🧠 What You Will Learn
 
 - How to configure **USART2 and USART3** for bidirectional UART communication
